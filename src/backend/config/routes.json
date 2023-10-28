@@ -1,0 +1,8 @@
+{
+  "rotas": {
+    "/leitura": {
+      "arquivo": "controller/leitura.php",
+      "metodo": "POST"
+    }
+  }
+}

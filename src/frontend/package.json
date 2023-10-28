@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "bower": "^1.8.14"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.0"
+  }
+}

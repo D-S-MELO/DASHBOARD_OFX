@@ -1,0 +1,17 @@
+{
+    "name": "diego/backend",
+    "autoload": {
+        "psr-4": {
+            "Diego\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diego Sabino Melo",
+            "email": "diegoc.live@gmail.com"
+        }
+    ],
+    "require": {
+        "asgrim/ofxparser": "^1.2"
+    }
+}
